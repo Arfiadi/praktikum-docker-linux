@@ -3,7 +3,7 @@
 ![Logo PENS](https://www.seekpng.com/png/detail/416-4164571_logo-pens-png-electronic-engineering-polytechnic-institute-of.png)
 
 
-Repositori ini menyajikan hasil pengerjaan tugas praktikum mata kuliah **Manajemen Data**, yang mencakup implementasi script Linux dasar serta pengembangan dan deployment aplikasi Python menggunakan Docker.
+Repositori ini menyajikan hasil pengerjaan tugas praktikum mata kuliah **Manajemen Data**, yang mencakup implementasi script Linux serta pengembangan dan deployment aplikasi Python menggunakan Docker.
 
 ---
 
@@ -59,11 +59,11 @@ Folder ini memuat file-file aplikasi Python yang telah dikonteinerisasi mengguna
 Untuk menjalankan aplikasi sistem pakar diagnosis gastro usus yang ada di `tugas2_app/` ini, pastikan Anda telah menginstal **Docker Desktop** di sistem Anda.
 
 1.  **Clone Repositori:**
-    Buka terminal (PowerShell/CMD/WSL) dan kloning repositori ini ke sistem lokal Anda:
+    Buka terminal  dan kloning repositori ini ke sistem lokal Anda:
     ```bash
-    git clone [https://github.com/Arfiadi/praktikum-docker-linux.git](https://github.com/Arfiadi/praktikum-docker-linux.git)
+    git clone https://github.com/Arfiadi/praktikum-docker-linux
     ```
-    *(Ganti `Arfiadi` dengan username GitHub Anda jika berbeda).*
+    *url adalah url repository ini.*
 
 2.  **Navigasi ke Direktori Aplikasi:**
     Masuk ke direktori yang berisi file-file aplikasi Docker:
@@ -82,12 +82,14 @@ Untuk menjalankan aplikasi sistem pakar diagnosis gastro usus yang ada di `tugas
     ```bash
     docker run -d -p 8501:8501 gastro-diagnosis-app:latest
     ```
+    *port bisa diganti sesuai kebutuhan Anda.*
+    
     *Verifikasi container berjalan:*
     ```bash
     docker ps
     ```
 
-5.  **Akses Aplikasi:**
+6.  **Akses Aplikasi:**
     Buka *browser* web Anda dan kunjungi URL berikut:
     ```
     http://localhost:8501
