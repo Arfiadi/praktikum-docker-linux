@@ -98,7 +98,7 @@ Untuk menjalankan aplikasi sistem pakar diagnosis gastro usus yang ada di `tugas
 
 ---
 
-## **Dokumentasi Lengkap & Video Demo**
+## **Dokumentasi Lengkap**
 
 Dokumentasi laporan yang lebih detail, analisis mendalam dari setiap langkah seluruh tugas praktikum dapat ditemukan pada:
 
