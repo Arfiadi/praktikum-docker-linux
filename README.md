@@ -1,9 +1,9 @@
 # Laporan Praktikum Manajemen Data
 
-![PENS Logo - Contoh](https://www.pens.ac.id/wp-content/uploads/2021/01/PENS_Logo-768x768.png) 
-*Catatan: Ganti URL gambar logo PENS dengan URL logo yang valid jika logo tidak muncul.*
+![PENS Logo - Contoh][(https://www.pens.ac.id/wp-content/uploads/2021/01/PENS_Logo-768x768.png](https://www.seekpng.com/png/detail/416-4164571_logo-pens-png-electronic-engineering-polytechnic-institute-of.png)) 
 
-Repositori ini menyajikan hasil pengerjaan tugas praktikum mata kuliah **Manajemen Data**, yang mencakup implementasi script Linux dasar serta pengembangan dan deployment aplikasi Python menggunakan teknologi Docker.
+
+Repositori ini menyajikan hasil pengerjaan tugas praktikum mata kuliah **Manajemen Data**, yang mencakup implementasi script Linux dasar serta pengembangan dan deployment aplikasi Python menggunakan Docker.
 
 ---
 
@@ -98,10 +98,9 @@ Untuk menjalankan aplikasi sistem pakar diagnosis gastro usus yang ada di `tugas
 
 ## **Dokumentasi Lengkap & Video Demo**
 
-Dokumentasi laporan yang lebih detail, analisis mendalam dari setiap langkah, serta tautan ke video demo pengerjaan seluruh tugas praktikum dapat ditemukan pada:
+Dokumentasi laporan yang lebih detail, analisis mendalam dari setiap langkah seluruh tugas praktikum dapat ditemukan pada:
 
-* **Dokumen Laporan (File Word):** [Sisipkan tautan ke file Word laporan Anda di Google Drive/OneDrive/LMS di sini]
-* **Video Demo Praktikum:** [Sisipkan tautan ke video demo di YouTube/Google Drive Anda di sini]
+* **Dokumen Laporan (File Word):** [https://1drv.ms/w/c/e62ae71f1d83fc73/Eayayee8G8JFuNkfG9UOKx4BCl78PkMDSQ54qZc1aoDipw?e=M66gGN]
 
 ---
 
