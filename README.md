@@ -1,6 +1,6 @@
 # Laporan Praktikum Manajemen Data
 
-![PENS Logo - Contoh][(https://www.pens.ac.id/wp-content/uploads/2021/01/PENS_Logo-768x768.png](https://www.seekpng.com/png/detail/416-4164571_logo-pens-png-electronic-engineering-polytechnic-institute-of.png)) 
+![Logo PENS](https://www.seekpng.com/png/detail/416-4164571_logo-pens-png-electronic-engineering-polytechnic-institute-of.png)
 
 
 Repositori ini menyajikan hasil pengerjaan tugas praktikum mata kuliah **Manajemen Data**, yang mencakup implementasi script Linux dasar serta pengembangan dan deployment aplikasi Python menggunakan Docker.
